@@ -1,2 +1,2 @@
-# create watch timer with html and css
- create watch timer with html and css
+# Making a clock with HTML and CSS
+Making a clock with HTML and CSS
